@@ -1,0 +1,101 @@
+Ticket_ID,Customer_Message,Predicted_Category,Predicted_Urgency
+1,"My credit card was charged twice, and I need a refund immediately.",Billing Issue,Critical
+2,The mobile app keeps crashing whenever I try to log in.,Technical Support,Low
+3,Can you provide more details about your subscription plans?,Product Inquiry,High
+4,I want to cancel my membership. Please let me know the process.,Cancellation Request,High
+5,My order is delayed. It was supposed to arrive last week.,Delivery Issue,Critical
+6,The internet connection is too slow; I can't work like this.,Delivery Issue,Critical
+7,I need help updating my billing information.,Billing Issue,Critical
+8,Can you explain the additional charges on my last invoice?,Billing Issue,Critical
+9,I want to upgrade my account to the premium plan.,Product Inquiry,High
+10,The router is not connecting to the internet after restarting.,Technical Support,Low
+11,I have not received the refund I was promised last week.,Cancellation Request,Critical
+12,Can I speak with a support representative?,Product Inquiry,High
+13,Please assist me in cancelling my current plan and switching to a new one.,Cancellation Request,Critical
+14,My delivery was damaged when it arrived.,Delivery Issue,Critical
+15,I am unable to reset my account password; the link is broken.,Technical Support,Critical
+16,Why was my card charged even though I didn't make a purchase?,Billing Issue,Critical
+17,Can you fix the issue with my account showing incorrect details?,Technical Support,Critical
+18,I need assistance setting up my new internet connection.,Technical Support,Critical
+19,"My subscription got cancelled, but I want to reactivate it.",Cancellation Request,Critical
+20,The app is not displaying my recent transactions correctly.,Technical Support,Critical
+21,This is a simulated customer message number 21,Technical Support,High
+22,This is a simulated customer message number 22,Technical Support,High
+23,This is a simulated customer message number 23,Technical Support,High
+24,This is a simulated customer message number 24,Technical Support,High
+25,This is a simulated customer message number 25,Technical Support,High
+26,This is a simulated customer message number 26,Technical Support,High
+27,This is a simulated customer message number 27,Technical Support,High
+28,This is a simulated customer message number 28,Technical Support,High
+29,This is a simulated customer message number 29,Technical Support,High
+30,This is a simulated customer message number 30,Technical Support,High
+31,This is a simulated customer message number 31,Technical Support,High
+32,This is a simulated customer message number 32,Technical Support,High
+33,This is a simulated customer message number 33,Technical Support,High
+34,This is a simulated customer message number 34,Technical Support,High
+35,This is a simulated customer message number 35,Technical Support,High
+36,This is a simulated customer message number 36,Technical Support,High
+37,This is a simulated customer message number 37,Technical Support,High
+38,This is a simulated customer message number 38,Technical Support,High
+39,This is a simulated customer message number 39,Technical Support,High
+40,This is a simulated customer message number 40,Technical Support,High
+41,This is a simulated customer message number 41,Technical Support,High
+42,This is a simulated customer message number 42,Technical Support,High
+43,This is a simulated customer message number 43,Product Inquiry,High
+44,This is a simulated customer message number 44,Product Inquiry,High
+45,This is a simulated customer message number 45,Product Inquiry,High
+46,This is a simulated customer message number 46,Product Inquiry,High
+47,This is a simulated customer message number 47,Product Inquiry,High
+48,This is a simulated customer message number 48,Product Inquiry,High
+49,This is a simulated customer message number 49,Product Inquiry,High
+50,This is a simulated customer message number 50,Product Inquiry,High
+51,This is a simulated customer message number 51,Product Inquiry,High
+52,This is a simulated customer message number 52,Technical Support,High
+53,This is a simulated customer message number 53,Product Inquiry,High
+54,This is a simulated customer message number 54,Product Inquiry,High
+55,This is a simulated customer message number 55,Product Inquiry,High
+56,This is a simulated customer message number 56,Product Inquiry,High
+57,This is a simulated customer message number 57,Product Inquiry,High
+58,This is a simulated customer message number 58,Product Inquiry,High
+59,This is a simulated customer message number 59,Product Inquiry,High
+60,This is a simulated customer message number 60,Product Inquiry,High
+61,This is a simulated customer message number 61,Product Inquiry,High
+62,This is a simulated customer message number 62,Product Inquiry,High
+63,This is a simulated customer message number 63,Technical Support,High
+64,This is a simulated customer message number 64,Product Inquiry,High
+65,This is a simulated customer message number 65,Product Inquiry,High
+66,This is a simulated customer message number 66,Product Inquiry,High
+67,This is a simulated customer message number 67,Product Inquiry,High
+68,This is a simulated customer message number 68,Product Inquiry,High
+69,This is a simulated customer message number 69,Product Inquiry,High
+70,This is a simulated customer message number 70,Technical Support,High
+71,This is a simulated customer message number 71,Product Inquiry,High
+72,This is a simulated customer message number 72,Technical Support,High
+73,This is a simulated customer message number 73,Product Inquiry,High
+74,This is a simulated customer message number 74,Product Inquiry,High
+75,This is a simulated customer message number 75,Product Inquiry,High
+76,This is a simulated customer message number 76,Product Inquiry,High
+77,This is a simulated customer message number 77,Technical Support,High
+78,This is a simulated customer message number 78,Product Inquiry,High
+79,This is a simulated customer message number 79,Technical Support,High
+80,This is a simulated customer message number 80,Product Inquiry,High
+81,This is a simulated customer message number 81,Product Inquiry,High
+82,This is a simulated customer message number 82,Technical Support,High
+83,This is a simulated customer message number 83,Product Inquiry,High
+84,This is a simulated customer message number 84,Product Inquiry,High
+85,This is a simulated customer message number 85,Product Inquiry,High
+86,This is a simulated customer message number 86,Product Inquiry,High
+87,This is a simulated customer message number 87,Product Inquiry,High
+88,This is a simulated customer message number 88,Technical Support,High
+89,This is a simulated customer message number 89,Product Inquiry,High
+90,This is a simulated customer message number 90,Technical Support,High
+91,This is a simulated customer message number 91,Technical Support,High
+92,This is a simulated customer message number 92,Product Inquiry,Low
+93,This is a simulated customer message number 93,Product Inquiry,High
+94,This is a simulated customer message number 94,Product Inquiry,High
+95,This is a simulated customer message number 95,Product Inquiry,Low
+96,This is a simulated customer message number 96,Product Inquiry,Low
+97,This is a simulated customer message number 97,Product Inquiry,High
+98,This is a simulated customer message number 98,Technical Support,High
+99,This is a simulated customer message number 99,Technical Support,High
+100,This is a simulated customer message number 100,Technical Support,High
